@@ -180,6 +180,15 @@ body{
 }
 */
 /*---------------------------------------------Rodape---------------------------------------------*/
+
+.rodape-estilo footer{
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+}
 .rodape-estilo{
     font-family: Arial, Verdana,'Times New Roman';
     color: white;
@@ -219,6 +228,6 @@ body{
     font-family: Arial, Verdana,'Times New Roman';
     margin-left: auto;
     line-height: 40px;
-    padding-right: auto;
+    
 
 }
