@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Estrutura da página*/
+body{
+
+    background-color:midnightblue;
+    background-image: linear-gradient(to right,#27355a,#26212e);
+    background-attachment: fixed;
+
+
+}
+/* Primeiro titulo do site  */
+.estilotitulotecnologia{
+    font-family: Arial, Verdana,'Times New Roman';
+    background-image: linear-gradient(to right,#27355a,#26212e);
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+
+/* Titulo do quem sou eu  */
+.estilotitulo h2 {
+ 
+    text-align: center;
+    margin: 40px;
+    
+    background-image: linear-gradient(to right,#27355a,#26212e);
+    color: white
+}
+
+
+/* Conteudo com formatação do quem sou eu  */
+
+.estiloquemsoueu p{
+
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+
+}
+
+/* Apresentação e Formação dos Conhecimentos  */
+/* h2 é o texto de apresentação do conteudo */
+
+.estiloconhecimento h2{
+    text-align: center;
+    margin: 40px;
+    background-image: linear-gradient(to right,#27355a,#26212e);
+    color: white
+}
+/* Aqui é o campo da formatção do conteudo  */
+.containerformacao{
+    
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+  }
+
+  /* É onde apresenta o titulo da formação */
+
+.formacao-estilo h3 {
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+/* Contrução dos menus */
+.formacao-estilo ul li  {
+   text-align: center;
+   text-transform: uppercase;
+   list-style-type: none;
+}
+/* é a formatação do titulo que é Certificados */
+.estilo-certificado h3{
+    font-family: Arial, Verdana,'Times New Roman';
+    text-align: center;
+    margin: 20px;
+    color: black;
+    background-color: white;
+}
+/* é a formatação dos links  */
+.estilo-certificado  a{
+    
+    font-family: Arial, Verdana,'Times New Roman';
+    text-decoration: none;
+    color: white;
+    text-align: justify;
+    text-align: center;
+   
+}
+
+/*Iniciando a Formatação de um outro Campo  Experiências Profissionais*/
+
+/* Experiencias Profissionais */
+/* Formatação do titulo do campo */
+.estiloquaisexperienciais h2{
+    
+    text-align: center;
+    margin: 40px;
+    background-image: linear-gradient(to right,#27355a,#26212e);
+    color: white
+
+}
+/* Formatação do corpo da Experiencia Profissional */
+.containerexperienciais{
+
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+
+}
+
+/* Formatação do titulo menuestilo h3 */
+.menu-estilo h3 {
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+    
+    
+}
+/* Formatação do menu */
+.menu-estilo ul li {
+    
+    color: white;
+    text-align: center;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+/*---------------------------------------------Estilo Formulário ---------------------------------------------
+
+
+.tituloform h3{
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+.estiloform h2{
+
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+.estiloform{
+ 
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+
+}
+.estilotextarea{
+    
+   
+    font-family: Arial, Verdana,'Times New Roman';
+   
+    
+}
+*/
+/*---------------------------------------------Rodape---------------------------------------------*/
+.rodape-estilo{
+    font-family: Arial, Verdana,'Times New Roman';
+    color: white;
+
+    
+    margin: auto;
+    height: auto;
+    padding: unset;
+    align-items: center;
+  
+}
+.rodape-estilo h2{
+    font-family: Arial, Verdana,'Times New Roman';
+   
+    margin: 10px;
+    text-align: justify;
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-image: linear-gradient(to right,#27355a,#26212e);
+    color: white;
+   
+  
+}
+
+
+.redes-sociais ul li{display: inline;}
+
+.redes-sociais ul li {
+    
+    margin: auto;
+    margin-left: 70px;
+    
+}
+
+.redes-sociais ul li a{
+
+
+    
+    font-family: Arial, Verdana,'Times New Roman';
+   
+   
+    margin-left: auto;
+    
+    
+    
+    line-height: 40px;
+
+}
