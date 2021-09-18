@@ -180,26 +180,6 @@ body{
 }
 */
 /*---------------------------------------------Rodape---------------------------------------------*/
-
-.rodape-estilo footer{
-    text-align: center;
-    font-family: Arial, Verdana,'Times New Roman';
-    background-color:#27355a;
-    color: white;
-    padding: 20px;
-    margin: 40px;
-}
-.rodape-estilo{
-    font-family: Arial, Verdana,'Times New Roman';
-    color: white;
-
-    
-    margin: auto;
-    height: auto;
-    padding: unset;
-    align-items: center;
-  
-}
 .rodape-estilo h2{
     font-family: Arial, Verdana,'Times New Roman';
    
@@ -212,22 +192,94 @@ body{
    
   
 }
+.rodape-estilo footer{
+
+    
+
+    /*font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+    
+    bottom: 0px;
+    width: 90%;
+    text-align: center;
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+    */
+}
+.rodape-estilo{
+
+    text-align: center;
+    font-family: Arial, Verdana,'Times New Roman';
+    background-color:#27355a;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+    width: 92%;
+    margin-left: auto;
+    /*font-family: Arial, Verdana,'Times New Roman';
+    color: white;
+
+    
+    margin: auto;
+    height: auto;
+    padding: unset;
+    align-items: center;
+  */
+}
+
+.redes-sociais{
+   text-align: justify;
+   text-transform: inherit;
+   text-align: center;
+   padding: 10px 10px 40px 20px;
+   
+   
+   
+
+    /* width: 100%;
+    text-align: center;
+    background-color:#27355a;
+    color: white;
+
+    padding: 20px;
+    */
+    
+  
+}
+
 
 
 .redes-sociais ul li{display: inline;}
 
+
+
+
 .redes-sociais ul li {
     
-    margin: auto;
-    margin-left: 70px;
+   /* margin: auto;
+    
+    margin-right: 70px;
+    */
     
 }
 
 .redes-sociais ul li a{
     
-    font-family: Arial, Verdana,'Times New Roman';
+    /*   font-family: Arial, Verdana,'Times New Roman';
+    text-align: justify;
     
-    line-height: 40px;
+
+    padding-left: 50px;
     
+    margin-left: 40px;
+    line-height: 50px;
+    */
 
 }
